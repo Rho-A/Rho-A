@@ -1,7 +1,7 @@
 ### Hi there 👋 
-### My name is Rhoda
+### My name is Rhoda.
 ### I am a third year student at UBC.
-Test1
+
 <!--
 **Rho-A/Rho-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
